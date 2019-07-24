@@ -1,3 +1,3 @@
 <?php
- echo 'nouvelle pasge intule'
+ echo 'nouvelle pasge intule!'
 ?>
